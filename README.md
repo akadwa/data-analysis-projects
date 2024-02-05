@@ -5,3 +5,4 @@ This repository contains a collection of data analysis projects that cover vario
 - [Excel](/Excel/)
 - [Python](/Python/)
 - [SQL](/SQL/)
+- [Tableau](/Tableau/)
