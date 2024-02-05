@@ -8,5 +8,5 @@ Documentation explaining the project objectives and methodologies
 - Any additional resources, such as ER diagrams or data dictionaries
 
 ### LIST OF PROJECTS
-[CoffeeSales](/SQL/CoffeeSales/)
-[FamousPaintings](/SQL/FamousPaintings/)
+- [CoffeeSales](/SQL/CoffeeSales/)
+- [FamousPaintings](/SQL/FamousPaintings/)

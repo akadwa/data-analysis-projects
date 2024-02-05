@@ -6,6 +6,6 @@ In this section, you will find projects that showcase advanced Excel techniques 
 - Documentation describing the project and its objectives
 
 ### LIST OF PROJECTS:
-[BikeSales](/Excel/BikeSales/)
-[CoffeeOrders](/Excel/CoffeeOrders/)
-[JobsInData](/Excel/JobsInData/)
+- [BikeSales](/Excel/BikeSales/)
+- [CoffeeOrders](/Excel/CoffeeOrders/)
+- [JobsInData](/Excel/JobsInData/)

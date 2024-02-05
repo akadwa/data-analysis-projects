@@ -12,5 +12,5 @@ This section includes projects that demonstrate data analysis using Python. Each
 - Seaborn
 
 ### LIST OF PROJECTS
-[HotelBookings](/Python/HotelBookings/)
-[PoliceShootings](/Python/PoliceShootings/)
+- [HotelBookings](/Python/HotelBookings/)
+- [PoliceShootings](/Python/PoliceShootings/)
