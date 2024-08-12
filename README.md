@@ -8,6 +8,6 @@ This repository contains a collection of data analysis projects that cover vario
 - [Tableau](/Tableau/)
 
 ### AlexTheAnalyst DATA ANALYTICS BOOTCAMP
-A self-paced bootcamp which took me from beginner to advanced in technologies such as Excel, SQL, Tableau, PowerBi and Python for Data Analytics. I started this course in October 2023 and completed it in February 2024.
+A self-paced bootcamp which took me from beginner to advanced in technologies such as Excel, SQL, Tableau, PowerBi and Python for Data Analytics. I started this course in 2023 and completed it in February 2024.
 
 Click [here](/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion.png) to view my certificate of completion.
